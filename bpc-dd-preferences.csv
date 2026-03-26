@@ -1,3 +1,3 @@
 Name,URL,Duration,UpdateInterval,StartOn,EndBy,Cache
-Exhibit01,https://github.com/jaybpc-code/bpc-dd/blob/24ade5c60b84cb99d559e4f6dcd8caabaf885ee6/Campus01.png,0:00:10,1:00:00,1/1/25 0:00,12/31/99 23:59,yes
-Exhibit02,https://github.com/jaybpc-code/bpc-dd/blob/80283cfb0d64d30ef0576c03a125364ed07e0250/Campus02.png,0:00:10,1:00:00,1/1/25 0:00,12/31/99 23:59,yes
+Exhibit01,https://raw.githubusercontent.com/jaybpc-code/bpc-dd/refs/heads/main/Campus01.png,0:00:10,1:00:00,1/1/25 0:00,12/31/99 23:59,yes
+Exhibit02,https://raw.githubusercontent.com/jaybpc-code/bpc-dd/refs/heads/main/Campus02.png,0:00:10,1:00:00,1/1/25 0:00,12/31/99 23:59,yes
