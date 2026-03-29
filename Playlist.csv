@@ -1,2 +1,2 @@
 Name,URL,Duration,UpdateInterval,StartOn,EndBy,Cache
-Exhibit01,https://raw.githubusercontent.com/jaybpc-code/bpc-dd/main/Exhibit01.png,0:00:10,1:00:00,1/1/25 0:00,12/31/99 23:59,yes
+Exhibit01,https://github.com/jaybpc-code/bpc-dd/raw/main/Exhibit01.png,0:00:10,1:00:00,1/1/25 0:00,12/31/99 23:59,yes
